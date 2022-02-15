@@ -18,3 +18,5 @@ Menerapkan Metode Multiple Regresi Linier Untuk Melihat Hubungan Keterkaitan Ant
 5. Gunakan teori OLS
 6. Plot hasil OLS menjadi grafik
 7. Terapkan hasil model prediksi yang diterima ke data Baru
+
+#### sumberdata: dataonline.bmkg.go.id
